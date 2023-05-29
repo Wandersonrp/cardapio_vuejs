@@ -78,31 +78,5 @@
     }
   ],
   "burgers": [
-    {
-      "nome": "Wanderson Rodrigues",
-      "carne": "Picanha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cebola roxa",
-        "Cheddar",
-        "Tomate"
-      ],
-      "status": "Finalizado",
-      "id": 1
-    },
-    {
-      "nome": "Karen Cristine",
-      "carne": "Maminha",
-      "pao": "Parmesão e Orégano",
-      "opcionais": [
-        "Bacon",
-        "Salame",
-        "Cheddar"
-      ],
-      "status": "Em produção",
-      "id": 2
-    }
   ]
 }
